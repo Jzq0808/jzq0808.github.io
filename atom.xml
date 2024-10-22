@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jzq0808.github.io</id>
+    <title>天水商贸</title>
+    <updated>2024-10-22T14:47:52.133Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jzq0808.github.io"/>
+    <link rel="self" href="https://jzq0808.github.io/atom.xml"/>
+    <subtitle>做国内外香烟---电子烟---代购奢侈品---手机卡业务---手机业务</subtitle>
+    <logo>https://jzq0808.github.io/images/avatar.png</logo>
+    <icon>https://jzq0808.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 天水商贸</rights>
+    <entry>
+        <title type="html"><![CDATA[烟草款式]]></title>
+        <id>https://jzq0808.github.io/post/yan-cao-kuan-shi/</id>
+        <link href="https://jzq0808.github.io/post/yan-cao-kuan-shi/">
+        </link>
+        <updated>2024-10-22T14:35:29.000Z</updated>
+        <content type="html"><![CDATA[<p>烟草款式有以下<br>
+欧盟系列<br>
+日本系列<br>
+韩国系列<br>
+朝鲜系列<br>
+国考系列<br>
+雪茄系列<br>
+越南系列<br>
+美国系列<br>
+俄罗斯系列</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联系方式]]></title>
+        <id>https://jzq0808.github.io/post/lian-xi-fang-shi/</id>
+        <link href="https://jzq0808.github.io/post/lian-xi-fang-shi/">
+        </link>
+        <updated>2024-10-22T14:25:31.000Z</updated>
+        <content type="html"><![CDATA[<p>微信号：tianshuism009<br>
+备用微信号：tianshuism007<br>
+<img src="https://jzq0808.github.io/post-images/1729607254707.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
